@@ -1,3 +1,13 @@
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;700;800;900&display=swap');
+
+
+body {
+  background-image: url('./images/background.png');
+  font-family: 'Libre Franklin';
+  background-size: cover;
+  box-sizing: border-box;
+  color: white;
+  margin: 0;
   text-align: center;
 }
+    

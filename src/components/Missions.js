@@ -6,7 +6,7 @@ import Title from './Title';
 class Missions extends React.Component {
   render() {
     return (
-      <div data-testid="missions">
+      <div data-testid="missions" className="div-missions">
         <Title headline="Missões" />
         <div>
           {missions.map((mission) => (
